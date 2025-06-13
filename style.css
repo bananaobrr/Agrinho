@@ -1,7 +1,7 @@
 :root {
-    --text-color: #b1d1f8;
-    --card-front-color: #00e1ff;
-    --card-back-color: #00F4BF;
+    --text-color: #17b82c;
+    --card-front-color: #3870d8;
+    --card-back-color: #ff1100;
 }
 
 body {
@@ -24,7 +24,7 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
-.cartao__conteudo {
+.cartao__conteudo {z
     background-color: var(--card-front-color);
     text-align: center;
     /* background-color: aquamarine; */
